@@ -3,6 +3,8 @@ languageCode: en-us
 title: Pedro Leão
 theme: "PaperMod"
 
+googleAnalytics: G-5RLJC3HZ8N
+
 menu:
     main:
         - identifier: blog
