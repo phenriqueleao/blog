@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>career on Pedro Leão</title>
+    <link>https://pedroleao.dev/tags/career/</link>
+    <description>Recent content in career on Pedro Leão</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Sep 2021 18:17:25 -0300</lastBuildDate><atom:link href="https://pedroleao.dev/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://pedroleao.dev/posts/hello-world/</link>
+      <pubDate>Fri, 10 Sep 2021 18:17:25 -0300</pubDate>
+      
+      <guid>https://pedroleao.dev/posts/hello-world/</guid>
+      <description>Today is a very special day for me. Besides my birthday, I&amp;rsquo;m finally launching my blog. I&amp;rsquo;ve been wanting to do this for a long time and it was nice to finally get it off the ground! :D
+I decided to use Hugo framework to speed up development and be more concerned with creating content than developing the blog itself. The experience was wonderful and, for those who want to create their own blog, I highly recommend it as deploying it on Netlify is very easy.</description>
+    </item>
+    
+  </channel>
+</rss>

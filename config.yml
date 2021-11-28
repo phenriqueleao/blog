@@ -5,20 +5,84 @@ theme: "PaperMod"
 
 googleAnalytics: G-5RLJC3HZ8N
 
-menu:
-    main:
-        - identifier: blog
-          name: blog
-          url: /posts/
-          weight: 10
-        - identifier: tags
-          name: tags
-          url: /tags/
-          weight: 20
-        - identifier: sobre
-          name: sobre
-          url: /sobre/
-          weight: 30
+defaultContentLanguage: en
+languages:
+  en:
+    params:
+    defaultTheme: auto
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Pedro Leão
+        subtitle: "Web Developer"
+        imageUrl: "https://avatars.githubusercontent.com/u/2072809?v=4"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+    socialIcons:
+      - name: twitter
+        url: "https://twitter.com/phenriqueleao"
+      - name: github
+        url: "https://github.com/phenriqueleao"
+      - name: dev
+        url: "https://dev.to/phenriqueleao"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/pedroh-leao/"
+      - name: youtube
+        url: "https://www.youtube.com/channel/UCtgwFl9aI-1n8otQbbXZTRQ"
+      - name: email
+        url: "mailto:phenriqueleao@gmail.com"
+    menu:
+      main:
+          - identifier: blog
+            name: blog
+            url: /posts/
+            weight: 10
+          - identifier: tags
+            name: tags
+            url: /tags/
+            weight: 20
+          - identifier: about
+            name: about
+            url: /about/
+            weight: 30
+  pt-br:
+    params:
+    defaultTheme: auto
+    profileMode:
+        enabled: true # needs to be explicitly set
+        title: Pedro Leão
+        subtitle: "Desenvolvedor Web"
+        imageUrl: "https://avatars.githubusercontent.com/u/2072809?v=4"
+        imageWidth: 120
+        imageHeight: 120
+        imageTitle: my image
+    socialIcons:
+      - name: twitter
+        url: "https://twitter.com/phenriqueleao"
+      - name: github
+        url: "https://github.com/phenriqueleao"
+      - name: dev
+        url: "https://dev.to/phenriqueleao"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/pedroh-leao/"
+      - name: youtube
+        url: "https://www.youtube.com/channel/UCtgwFl9aI-1n8otQbbXZTRQ"
+      - name: email
+        url: "mailto:phenriqueleao@gmail.com"
+    menu:
+      main:
+          - identifier: blog
+            name: blog
+            url: /posts/
+            weight: 10
+          - identifier: tags
+            name: tags
+            url: /tags/
+            weight: 20
+          - identifier: sobre
+            name: sobre
+            url: /sobre/
+            weight: 30
 
 params:
     defaultTheme: auto

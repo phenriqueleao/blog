@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pedro Leão</title>
+    <link>https://pedroleao.dev/pt-br/</link>
+    <description>Recent content on Pedro Leão</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Sep 2021 18:17:25 -0300</lastBuildDate><atom:link href="https://pedroleao.dev/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://pedroleao.dev/pt-br/posts/hello-world/</link>
+      <pubDate>Fri, 10 Sep 2021 18:17:25 -0300</pubDate>
+      
+      <guid>https://pedroleao.dev/pt-br/posts/hello-world/</guid>
+      <description>Hoje é um dia bastante especial pra mim. Além do meu aniversário, finalmente estou lançando o meu blog. Já tinha um bom tempo que eu queria fazer isso e foi legal finalmente tirar isso do papel! :D
+Decidi utilizar o framwork Hugo para ter uma maior velocidade no desenvolvimento e me preocupar mais com a criação de conteúdo do que o desenvolvimento do próprio blog. A experiência foi maravilhosa e, para quem desejar criar o seu próprio blog, recomendo demais já que o deploy no Netlify é muito facilitado.</description>
+    </item>
+    
+    <item>
+      <title>Sobre</title>
+      <link>https://pedroleao.dev/pt-br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pedroleao.dev/pt-br/about/</guid>
+      <description>Em construção&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
